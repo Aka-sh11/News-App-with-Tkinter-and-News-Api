@@ -1,1 +1,4 @@
-# news-app-with-tkinter-and-news-api
+## A simple app to keep you updated with the daily news.
+
+### Output :
+![](news_app.png)
